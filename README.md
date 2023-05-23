@@ -1,0 +1,2 @@
+# RevisticaCR
+Proyecto Universitario
